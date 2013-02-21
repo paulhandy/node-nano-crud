@@ -1,0 +1,13 @@
+{
+  "name": "node-crud",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "request":"*",
+    "coffee-script":"*",
+    "nano":"*",
+  },
+}
