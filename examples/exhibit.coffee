@@ -1,4 +1,4 @@
-Couch = require '../lib/couch'
+Couch = require '../couch'
 class Exhibit extends Couch
 	constructor: (nano) ->
 		@design = 'exhibit'
